@@ -534,9 +534,9 @@ function Page(props) {
           {/* < ul > */}
           {/* { */}
           {/* // props.posts.map(post => ( */}
-          <div
+          {/* <div
             dangerouslySetInnerHTML={{ __html: props.posts.html }}
-          ></div>
+          ></div> */}
 
           {/* // <li key={post.id}>{post.html}</li> */}
           {/* // )) */}
